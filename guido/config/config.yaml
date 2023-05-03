@@ -1,0 +1,14 @@
+defaults:
+  - optimizer: adam
+  - training: base
+  - mlflow: base
+  - override hydra/launcher: joblib
+
+hydra:
+  launcher:
+    n_jobs: 1
+  sweeper:
+    params:
+      optimizer.lr:  5e-5, 4e-5, 3e-5, 2e-5
+      training.batch_size: 64
+

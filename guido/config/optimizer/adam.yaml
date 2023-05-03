@@ -1,0 +1,2 @@
+lr: 5e-5
+dropout: 0.7
