@@ -1,5 +1,5 @@
 # GUIDO: Guideline Discovery & Ordering
-
+<img title="a title" alt="Alt text" src=".imgs/recipe_1_pn.png">
 This is the repository for the paper [TODO after DOI announcement]().
 
 Provided features:
