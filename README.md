@@ -54,5 +54,21 @@ python guido/main.py --model-path=weights/sentence_bert/<model-name>
 
 ### Citation
 
-TBA
+Freyer, N.; Thewes, D. and Meinecke, M. (2023). GUIDO: A Hybrid Approach to Guideline Discovery & Ordering from Natural Language Texts.  In Proceedings of the 12th International Conference on Data Science, Technology and Applications, ISBN 978-989-758-664-4, ISSN 2184-285X, pages 335-342.  DOI: 10.5220/0012084400003541   
+
+```
+@conference{data23,
+author={Nils Freyer. and Dustin Thewes. and Matthias Meinecke.},
+title={GUIDO: A Hybrid Approach to Guideline Discovery & Ordering from Natural Language Texts},
+booktitle={Proceedings of the 12th International Conference on Data Science, Technology and Applications - DATA},
+year={2023},
+pages={335-342},
+publisher={SciTePress},
+organization={INSTICC},
+doi={10.5220/0012084400003541},
+isbn={978-989-758-664-4},
+issn={2184-285X},
+}
+```
+
 
