@@ -1,7 +1,7 @@
 # GUIDO: Guideline Discovery & Ordering
 <img title="a title" alt="Alt text" src=".imgs/recipe_1_pn.png">
 
-This is the repository for the paper [TODO after DOI announcement]().
+This is the repository for the paper [GUIDO: A Hybrid Approach to Guideline Discovery & Ordering from Natural Language Texts](https://doi.org/10.5220/0012084400003541).
 
 Provided features:
 - training conventions for your own datasets
