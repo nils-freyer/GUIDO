@@ -3,7 +3,6 @@
 **/*.pdf
 
 # Models
-models/
 
 mlruns/
 # Created by https://www.toptal.com/developers/gitignore/api/PyCharm+all,python,JupyterNotebooks
