@@ -1,0 +1,237 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<pnml>
+  <net id="recipe_1" type="http://www.pnml.org/version-2009/grammar/pnmlcoremodel">
+    <name>
+      <text>recipe_1</text>
+    </name>
+    <page id="n0">
+      <place id="source_0">
+        <name>
+          <text>source_0</text>
+        </name>
+      </place>
+      <place id="0_20">
+        <name>
+          <text>0_20</text>
+        </name>
+      </place>
+      <place id="p_end(46, 44)">
+        <name>
+          <text>p_end(46, 44)</text>
+        </name>
+      </place>
+      <place id="44_52">
+        <name>
+          <text>44_52</text>
+        </name>
+      </place>
+      <place id="22_30">
+        <name>
+          <text>22_30</text>
+        </name>
+      </place>
+      <place id="22_33">
+        <name>
+          <text>22_33</text>
+        </name>
+      </place>
+      <place id="35_42">
+        <name>
+          <text>35_42</text>
+        </name>
+      </place>
+      <place id="35_39">
+        <name>
+          <text>35_39</text>
+        </name>
+      </place>
+      <place id="p_end(44, 44)">
+        <name>
+          <text>p_end(44, 44)</text>
+        </name>
+      </place>
+      <place id="p_and_75">
+        <name>
+          <text>p_and_75</text>
+        </name>
+      </place>
+      <place id="p_end(81, 75)">
+        <name>
+          <text>p_end(81, 75)</text>
+        </name>
+      </place>
+      <place id="22_27">
+        <name>
+          <text>22_27</text>
+        </name>
+      </place>
+      <place id="p_and_44">
+        <name>
+          <text>p_and_44</text>
+        </name>
+      </place>
+      <place id="p_and_46">
+        <name>
+          <text>p_and_46</text>
+        </name>
+      </place>
+      <place id="60_66">
+        <name>
+          <text>60_66</text>
+        </name>
+      </place>
+      <place id="60_62">
+        <name>
+          <text>60_62</text>
+        </name>
+      </place>
+      <place id="END_CCJ44">
+        <name>
+          <text>END_CCJ44</text>
+        </name>
+      </place>
+      <place id="p_and_81">
+        <name>
+          <text>p_and_81</text>
+        </name>
+      </place>
+      <place id="END_CCJ75">
+        <name>
+          <text>END_CCJ75</text>
+        </name>
+      </place>
+      <place id="p_end(75, 75)">
+        <name>
+          <text>p_end(75, 75)</text>
+        </name>
+      </place>
+      <transition id="27">
+        <name>
+          <text>27</text>
+        </name>
+      </transition>
+      <transition id="46">
+        <name>
+          <text>46</text>
+        </name>
+      </transition>
+      <transition id="AND_END_44">
+        <name>
+          <text>AND_END_44</text>
+        </name>
+        <toolspecific tool="ProM" version="6.4" activity="$invisible$" localNodeID="e72be622-fcdf-459a-b3b8-3a1cc6b75d9f"/>
+      </transition>
+      <transition id="44">
+        <name>
+          <text>44</text>
+        </name>
+      </transition>
+      <transition id="52">
+        <name>
+          <text>52</text>
+        </name>
+      </transition>
+      <transition id="62">
+        <name>
+          <text>62</text>
+        </name>
+      </transition>
+      <transition id="66">
+        <name>
+          <text>66</text>
+        </name>
+      </transition>
+      <transition id="20">
+        <name>
+          <text>20</text>
+        </name>
+      </transition>
+      <transition id="30">
+        <name>
+          <text>30</text>
+        </name>
+      </transition>
+      <transition id="33">
+        <name>
+          <text>33</text>
+        </name>
+      </transition>
+      <transition id="39">
+        <name>
+          <text>39</text>
+        </name>
+      </transition>
+      <transition id="42">
+        <name>
+          <text>42</text>
+        </name>
+      </transition>
+      <transition id="AND_44">
+        <name>
+          <text>AND_44</text>
+        </name>
+        <toolspecific tool="ProM" version="6.4" activity="$invisible$" localNodeID="c7e329dd-56ea-49a8-95e8-5f00087b956c"/>
+      </transition>
+      <transition id="AND_75">
+        <name>
+          <text>AND_75</text>
+        </name>
+        <toolspecific tool="ProM" version="6.4" activity="$invisible$" localNodeID="b5301d37-de22-4edf-b1fe-d5b34d071a8d"/>
+      </transition>
+      <transition id="81">
+        <name>
+          <text>81</text>
+        </name>
+      </transition>
+      <transition id="75">
+        <name>
+          <text>75</text>
+        </name>
+      </transition>
+      <transition id="AND_END_75">
+        <name>
+          <text>AND_END_75</text>
+        </name>
+        <toolspecific tool="ProM" version="6.4" activity="$invisible$" localNodeID="b9b4aaa1-6285-45fa-b73f-ca8dc8e26b22"/>
+      </transition>
+      <arc id="139874626297088" source="AND_75" target="p_and_75"/>
+      <arc id="139874626307600" source="p_and_46" target="46"/>
+      <arc id="139874626294304" source="33" target="22_33"/>
+      <arc id="139874626297376" source="AND_END_75" target="END_CCJ75"/>
+      <arc id="139874626307120" source="p_end(44, 44)" target="AND_END_44"/>
+      <arc id="139874626307888" source="AND_END_44" target="END_CCJ44"/>
+      <arc id="139874626195760" source="44_52" target="62"/>
+      <arc id="139874626295360" source="39" target="35_39"/>
+      <arc id="139874626307648" source="AND_44" target="p_and_46"/>
+      <arc id="139874626195520" source="35_42" target="AND_44"/>
+      <arc id="139874626296896" source="AND_75" target="p_and_81"/>
+      <arc id="139874626307408" source="46" target="p_end(46, 44)"/>
+      <arc id="139874626308176" source="62" target="60_62"/>
+      <arc id="139874627091808" source="20" target="0_20"/>
+      <arc id="139874626294112" source="30" target="22_30"/>
+      <arc id="139874626297184" source="p_and_81" target="81"/>
+      <arc id="139874626195568" source="0_20" target="27"/>
+      <arc id="139874626307696" source="AND_44" target="p_and_44"/>
+      <arc id="139874626294400" source="27" target="22_27"/>
+      <arc id="139874626297472" source="p_and_75" target="75"/>
+      <arc id="139874626307216" source="END_CCJ44" target="52"/>
+      <arc id="139874626307984" source="44" target="p_end(44, 44)"/>
+      <arc id="139874626195856" source="60_66" target="AND_75"/>
+      <arc id="139874626295456" source="35_39" target="42"/>
+      <arc id="139874626296992" source="81" target="p_end(81, 75)"/>
+      <arc id="139874627092144" source="source_0" target="20"/>
+      <arc id="139874626306736" source="p_and_44" target="44"/>
+      <arc id="139874626307504" source="52" target="44_52"/>
+      <arc id="139874626309040" source="66" target="60_66"/>
+      <arc id="139874626294208" source="22_30" target="33"/>
+      <arc id="139874626295744" source="p_end(81, 75)" target="AND_END_75"/>
+      <arc id="139874626297280" source="75" target="p_end(75, 75)"/>
+      <arc id="139874626195664" source="22_33" target="39"/>
+      <arc id="139874626308560" source="60_62" target="66"/>
+      <arc id="139874627092192" source="22_27" target="30"/>
+      <arc id="139874626295264" source="42" target="35_42"/>
+      <arc id="139874626297568" source="p_end(75, 75)" target="AND_END_75"/>
+      <arc id="139874626307312" source="p_end(46, 44)" target="AND_END_44"/>
+    </page>
+  </net>
+</pnml>

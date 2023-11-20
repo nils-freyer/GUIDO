@@ -1,0 +1,17 @@
+{"Activity": [["sch\u00e4len"], [], []], "CVC": [], "Negative": false, "Subjects": [], "Objects": ["Die Knoblauchzehen"], "Modifiers": [], "Parallel": false, "Optional": false, "id": 1}
+{"Activity": [["hacken"], [], []], "CVC": [], "Negative": false, "Subjects": [], "Objects": [], "Modifiers": ["grob"], "Parallel": false, "Optional": false, "id": 4}
+{"Activity": [["lassen", "k\u00f6cheln"], [], []], "CVC": [], "Negative": false, "Subjects": [], "Objects": [], "Modifiers": ["5 Minuten", "mit Cr\u00e9me fraiche"], "Parallel": false, "Optional": false, "id": 15}
+{"Activity": [["abschmecken"], [], []], "CVC": [], "Negative": false, "Subjects": [], "Objects": [], "Modifiers": ["Mit Salz"], "Parallel": false, "Optional": false, "id": 21}
+{"Activity": [["garen"], [], []], "CVC": [], "Negative": false, "Subjects": [], "Objects": ["Die Bandnudeln"], "Modifiers": ["mit 1 EL \u00d6l"], "Parallel": false, "Optional": false, "id": 27}
+{"Activity": [["abgie\u00dfen", "vermischen"], [], []], "CVC": [], "Negative": false, "Subjects": [], "Objects": ["Die Bandnudeln"], "Modifiers": ["mit 1 EL \u00d6l"], "Parallel": false, "Optional": false, "id": 29}
+{"Activity": [["waschen"], [], []], "CVC": [], "Negative": false, "Subjects": [], "Objects": ["Die Zucchini"], "Modifiers": [], "Parallel": false, "Optional": false, "id": 35}
+{"Activity": [["schneiden"], [], []], "CVC": [], "Negative": false, "Subjects": [], "Objects": [], "Modifiers": ["in Stifte"], "Parallel": false, "Optional": false, "id": 39}
+{"Activity": [["schneiden"], [], []], "CVC": [], "Negative": false, "Subjects": [], "Objects": ["Die Champignons"], "Modifiers": [], "Parallel": false, "Optional": false, "id": 43}
+{"Activity": [["geben"], [], []], "CVC": [], "Negative": false, "Subjects": [], "Objects": ["Beides"], "Modifiers": ["anschlie\u00dfend"], "Parallel": false, "Optional": false, "id": 49}
+{"Activity": [["lassen", "abtropfen"], [], []], "CVC": [], "Negative": false, "Subjects": [], "Objects": ["Beides"], "Modifiers": ["anschlie\u00dfend"], "Parallel": false, "Optional": false, "id": 53}
+{"Activity": [["buttern"], [], []], "CVC": [], "Negative": false, "Subjects": [], "Objects": ["Eine flache feuerfeste Form", "alle Zutaten"], "Modifiers": [], "Parallel": false, "Optional": false, "id": 56}
+{"Activity": [["hineingeben"], [], []], "CVC": [], "Negative": false, "Subjects": [], "Objects": ["alle Zutaten"], "Modifiers": [], "Parallel": false, "Optional": false, "id": 59}
+{"Activity": [["bestreuen"], [], []], "CVC": [], "Negative": false, "Subjects": [], "Objects": [], "Modifiers": ["mit geriebenem K\u00e4se"], "Parallel": false, "Optional": false, "id": 65}
+{"Activity": [["\u00fcberbacken"], [], []], "CVC": [], "Negative": false, "Subjects": [], "Objects": [], "Modifiers": ["im Backofen"], "Parallel": false, "Optional": false, "id": 75}
+{"Activity": [["mischen"], [], []], "CVC": [], "Negative": false, "Subjects": [], "Objects": ["alle Zutaten"], "Modifiers": [], "Parallel": false, "Optional": false, "id": 61}
+{"Activity": [["servieren"], [], []], "CVC": [], "Negative": false, "Subjects": [], "Objects": [], "Modifiers": ["bestreut"], "Parallel": false, "Optional": false, "id": 80}

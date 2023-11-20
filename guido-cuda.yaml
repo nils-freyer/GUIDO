@@ -1,18 +1,15 @@
-name: guido-cuda-test
+name: guido-cuda
 channels:
   - pytorch
   - conda-forge
   - nvidia
 dependencies:
   - python=3.8.10
-  - pytorch=1.13.1
-  - torchvision
-  - torchaudio
-  - pytorch-cuda=11.6
+  - cudatoolkit=11.6
   - tensorflow=2.10.*
   - pip
+  - poetry
   - pip:
-    - poetry==1.2.2
     - setuptools
     - wheel
     - hydra-joblib-launcher == 1.2.0

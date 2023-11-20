@@ -1,0 +1,219 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<pnml>
+  <net id="recipe_0" type="http://www.pnml.org/version-2009/grammar/pnmlcoremodel">
+    <name>
+      <text>recipe_0</text>
+    </name>
+    <page id="n0">
+      <place id="0_1">
+        <name>
+          <text>0_1</text>
+        </name>
+      </place>
+      <place id="23_27">
+        <name>
+          <text>23_27</text>
+        </name>
+      </place>
+      <place id="23_29">
+        <name>
+          <text>23_29</text>
+        </name>
+      </place>
+      <place id="41_43">
+        <name>
+          <text>41_43</text>
+        </name>
+      </place>
+      <place id="45_53">
+        <name>
+          <text>45_53</text>
+        </name>
+      </place>
+      <place id="55_65">
+        <name>
+          <text>55_65</text>
+        </name>
+      </place>
+      <place id="55_56">
+        <name>
+          <text>55_56</text>
+        </name>
+      </place>
+      <place id="55_59">
+        <name>
+          <text>55_59</text>
+        </name>
+      </place>
+      <place id="55_75">
+        <name>
+          <text>55_75</text>
+        </name>
+      </place>
+      <place id="source_0">
+        <name>
+          <text>source_0</text>
+        </name>
+      </place>
+      <place id="0_4">
+        <name>
+          <text>0_4</text>
+        </name>
+      </place>
+      <place id="0_15">
+        <name>
+          <text>0_15</text>
+        </name>
+      </place>
+      <place id="17_21">
+        <name>
+          <text>17_21</text>
+        </name>
+      </place>
+      <place id="34_35">
+        <name>
+          <text>34_35</text>
+        </name>
+      </place>
+      <place id="34_39">
+        <name>
+          <text>34_39</text>
+        </name>
+      </place>
+      <place id="45_49">
+        <name>
+          <text>45_49</text>
+        </name>
+      </place>
+      <place id="55_61">
+        <name>
+          <text>55_61</text>
+        </name>
+      </place>
+      <place id="77_80">
+        <name>
+          <text>77_80</text>
+        </name>
+      </place>
+      <transition id="4">
+        <name>
+          <text>4</text>
+        </name>
+      </transition>
+      <transition id="15">
+        <name>
+          <text>15</text>
+        </name>
+      </transition>
+      <transition id="27">
+        <name>
+          <text>27</text>
+        </name>
+      </transition>
+      <transition id="29">
+        <name>
+          <text>29</text>
+        </name>
+      </transition>
+      <transition id="43">
+        <name>
+          <text>43</text>
+        </name>
+      </transition>
+      <transition id="49">
+        <name>
+          <text>49</text>
+        </name>
+      </transition>
+      <transition id="53">
+        <name>
+          <text>53</text>
+        </name>
+      </transition>
+      <transition id="75">
+        <name>
+          <text>75</text>
+        </name>
+      </transition>
+      <transition id="65">
+        <name>
+          <text>65</text>
+        </name>
+      </transition>
+      <transition id="1">
+        <name>
+          <text>1</text>
+        </name>
+      </transition>
+      <transition id="21">
+        <name>
+          <text>21</text>
+        </name>
+      </transition>
+      <transition id="35">
+        <name>
+          <text>35</text>
+        </name>
+      </transition>
+      <transition id="39">
+        <name>
+          <text>39</text>
+        </name>
+      </transition>
+      <transition id="56">
+        <name>
+          <text>56</text>
+        </name>
+      </transition>
+      <transition id="59">
+        <name>
+          <text>59</text>
+        </name>
+      </transition>
+      <transition id="61">
+        <name>
+          <text>61</text>
+        </name>
+      </transition>
+      <transition id="80">
+        <name>
+          <text>80</text>
+        </name>
+      </transition>
+      <arc id="139867087453056" source="15" target="0_15"/>
+      <arc id="139867087452096" source="source_0" target="1"/>
+      <arc id="139867087451136" source="0_4" target="15"/>
+      <arc id="139867087443328" source="17_21" target="27"/>
+      <arc id="139867226795072" source="55_65" target="75"/>
+      <arc id="139867087441984" source="55_59" target="61"/>
+      <arc id="139867087442560" source="59" target="55_59"/>
+      <arc id="139867087442368" source="65" target="55_65"/>
+      <arc id="139867087442944" source="61" target="55_61"/>
+      <arc id="139867087450512" source="27" target="23_27"/>
+      <arc id="139867226689104" source="35" target="34_35"/>
+      <arc id="139867226758928" source="34_35" target="39"/>
+      <arc id="139867087443472" source="23_29" target="35"/>
+      <arc id="139867087444048" source="41_43" target="49"/>
+      <arc id="139867087443664" source="55_75" target="80"/>
+      <arc id="139867087452576" source="0_1" target="4"/>
+      <arc id="139867087451616" source="21" target="17_21"/>
+      <arc id="139867087451040" source="29" target="23_29"/>
+      <arc id="139867564503776" source="23_27" target="29"/>
+      <arc id="139867226783456" source="43" target="41_43"/>
+      <arc id="139867226793632" source="55_61" target="65"/>
+      <arc id="139867087442272" source="56" target="55_56"/>
+      <arc id="139867087442464" source="75" target="55_75"/>
+      <arc id="139867087442656" source="80" target="77_80"/>
+      <arc id="139867087452336" source="1" target="0_1"/>
+      <arc id="139867087450992" source="4" target="0_4"/>
+      <arc id="139867087443376" source="0_15" target="21"/>
+      <arc id="139867226758832" source="39" target="34_39"/>
+      <arc id="139867087443568" source="34_39" target="43"/>
+      <arc id="139867226777968" source="45_49" target="53"/>
+      <arc id="139867226794544" source="53" target="45_53"/>
+      <arc id="139867226794160" source="49" target="45_49"/>
+      <arc id="139867087442032" source="55_56" target="59"/>
+      <arc id="139867087444144" source="45_53" target="56"/>
+    </page>
+  </net>
+</pnml>

@@ -1,0 +1,13 @@
+{"Activity": [["lassen", "k\u00f6cheln"], [], []], "CVC": [], "Negative": false, "Subjects": [], "Objects": ["Das Eisbein"], "Modifiers": ["ca. 1-1,5 Stunden"], "Parallel": false, "Optional": false, "id": 20}
+{"Activity": [["auslassen"], [], []], "CVC": [], "Negative": false, "Subjects": [], "Objects": ["den Speck", "etwas Zwiebel", "das Sauerkraut"], "Modifiers": [], "Parallel": false, "Optional": false, "id": 27}
+{"Activity": [["and\u00fcnsten"], [], []], "CVC": [], "Negative": false, "Subjects": [], "Objects": ["das Sauerkraut", "etwas Zwiebel"], "Modifiers": [], "Parallel": false, "Optional": false, "id": 30}
+{"Activity": [["anbraten"], [], []], "CVC": [], "Negative": false, "Subjects": [], "Objects": ["das Sauerkraut"], "Modifiers": [], "Parallel": false, "Optional": false, "id": 33}
+{"Activity": [["w\u00fcrzen"], [], []], "CVC": [], "Negative": false, "Subjects": [], "Objects": ["den kompletten Riesling"], "Modifiers": [], "Parallel": false, "Optional": false, "id": 39}
+{"Activity": [["angie\u00dfen"], [], []], "CVC": [], "Negative": false, "Subjects": [], "Objects": ["den kompletten Riesling"], "Modifiers": [], "Parallel": false, "Optional": false, "id": 42}
+{"Activity": [["Zugedeckt"], [], []], "CVC": [], "Negative": false, "Subjects": ["der Wein"], "Objects": [], "Modifiers": [], "Parallel": false, "Optional": false, "id": 44}
+{"Activity": [["schmoren"], [], []], "CVC": [], "Negative": false, "Subjects": ["der Wein"], "Objects": [], "Modifiers": [], "Parallel": true, "Optional": false, "id": 46}
+{"Activity": [["aufgesogen"], ["wurde"], []], "CVC": [], "Negative": false, "Subjects": ["der Wein"], "Objects": [], "Modifiers": [], "Parallel": false, "Optional": false, "id": 52}
+{"Activity": [["nehmen"], [], []], "CVC": [], "Negative": false, "Subjects": [], "Objects": [], "Modifiers": ["aus dem Essigsud"], "Parallel": false, "Optional": false, "id": 62}
+{"Activity": [["setzen"], [], []], "CVC": [], "Negative": false, "Subjects": [], "Objects": [], "Modifiers": ["auf das Kraut"], "Parallel": false, "Optional": false, "id": 66}
+{"Activity": [["garen"], [], []], "CVC": [], "Negative": false, "Subjects": [], "Objects": [], "Modifiers": ["\u00b0"], "Parallel": false, "Optional": false, "id": 75}
+{"Activity": [["\u00fcbergie\u00dfen"], [], []], "CVC": [], "Negative": false, "Subjects": [], "Objects": [], "Modifiers": ["dabei"], "Parallel": true, "Optional": false, "id": 81}
