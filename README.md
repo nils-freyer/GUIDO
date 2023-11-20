@@ -13,11 +13,8 @@ Provided features:
 Set up dependencies:
 ```
 conda env create -f guido-cuda.yaml
-conda activate guido-cuda-test
-poetry config virtualenvs.create false
+conda activate guido-cuda
 poetry install
-spacy download de_core_news_sm
-spacy download de_core_news_lg
 spacy download de_dep_news_trf
 
 pip install --upgrade git+https://github.com/huggingface/transformers.git
